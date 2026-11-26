@@ -1,0 +1,5 @@
+name = "collatz-lean"
+defaultTargets = ["Collatz"]
+
+[[lean_lib]]
+name = "Collatz"
